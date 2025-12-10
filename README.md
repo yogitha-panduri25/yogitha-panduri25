@@ -25,12 +25,5 @@ Learning Arduino, GitHub, Embedded Systems & VLSI
 
 ---
 
-## 🌸 Stats (Aesthetic Mode)
-![Yogitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogitha-panduri25&show_icons=true&theme=rose_pine&hide_title=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-panduri25&layout=compact&theme=rose_pine)
-
----
-
 ### 💫 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=yogitha-panduri25&color=ffb3d1)
