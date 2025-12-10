@@ -1,10 +1,11 @@
-# Hi, I'm Yogitha 👋  
+# Hi, I'm Yogitha 👋
 
-🌱 B.Tech ECE | 3rd Year  
-🔧 Learning Arduino, Git, GitHub & Embedded Systems  
-⚡ Interests: DSP, Microcontrollers, VLSI  
-📘 Currently building beginner-friendly Arduino projects  
+*B.Tech ECE | 3rd Year*
 
-### 🚀 My Projects
+- Learning Arduino, Git & Embedded Systems  
+- Interests: DSP, Microcontrollers, VLSI  
+- Currently building beginner-friendly Arduino projects  
+
+## Projects
 - 🔴 Blink LED – Arduino UNO  
-- More coming soon...
+- More coming soon
